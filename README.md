@@ -1,5 +1,6 @@
 Nexus Install process
 There are two way we can install nexus
+
 process1:
 
   1. wget https://download.sonatype.com/nexus/3/latest-unix.tar.gz
